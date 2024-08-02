@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ManavDodiya
-- 👀 I’m interested in database administration and backend development
-- 🌱 I’m currently learning diploma in IT engineering at LJ Polytechnic, Ahmedabad 
-- 💞️ 
-- 📫 
+- Hi, I’m @ManavDodiya
+- I’m interested in DSA amd Android Development
+- Completed Diploma in Information Technology 
+- 🌱 I’m currently pursuing B.Tech from JG University, thaltej
+
 
 <!---
 ManavDodiya/ManavDodiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
