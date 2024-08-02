@@ -1,7 +1,7 @@
 - Hi, I’m @ManavDodiya
 - I’m interested in DSA amd Android Development
 - Completed Diploma in Information Technology 
-- 🌱 I’m currently pursuing B.Tech from JG University, thaltej
+- I’m currently pursuing B.Tech from JG University, thaltej
 
 
 <!---
